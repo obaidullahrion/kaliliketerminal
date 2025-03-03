@@ -144,10 +144,3 @@
 ---
 
 ---
-
-### **mannualy Setting Wallpaper if automatically doesnt work**
-
-```xml
-feh --bg-scale ~/wall.png
-
-```
